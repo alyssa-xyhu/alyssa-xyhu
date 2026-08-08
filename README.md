@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Alyssa 👋
 
-<!--
-**alyssa-xyhu/alyssa-xyhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Economics @ University of Pennsylvania
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered products and solving real user problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Building
+
+### Levari — Founder & Product Lead
+AI-native marketplace connecting students with verified peers.
+
+- 300+ users across 8 universities
+- $40K+ GMV
+- Built MVP from 0→1
+
+## Projects
+
+### Sports Concierge AI
+AI assistant helping sports fans follow teams, players, and events.
+
+## Interests
+
+AI Products · Product Management · Startups 
+
