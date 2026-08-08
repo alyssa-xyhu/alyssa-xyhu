@@ -4,21 +4,28 @@ CS + Economics @ University of Pennsylvania
 
 I'm passionate about building AI-powered products and solving real user problems.
 
-## 🚀 Building
+## 🚀 Experience
 
-### Levari — Founder & Product Lead
+### Founder & Product Lead — Levari
+
 AI-native marketplace connecting students with verified peers.
 
+- Built MVP from 0→1
 - 300+ users across 8 universities
 - $40K+ GMV
-- Built MVP from 0→1
+- Conducted 50+ user interviews
 
-## Projects
+### Product & Growth Intern — Genia
+
+AI SaaS startup building AI agents for structural engineers.
+
+## 🛠 Projects
 
 ### Sports Concierge AI
-AI assistant helping sports fans follow teams, players, and events.
+
+AI assistant that helps sports fans follow teams, players, and events.
 
 ## Interests
 
-AI Products · Product Management · Startups 
+AI Products · Product Management · Startups · Consumer Platforms
 
