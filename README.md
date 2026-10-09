@@ -1,31 +1,80 @@
-## Hi, I'm Alyssa 👋
+<div align="center">
 
-CS + Economics @ University of Pennsylvania
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=300&size=54&duration=3500&pause=1500&color=888888&center=true&vCenter=true&width=750&height=100&lines=ALYSSA+HU" alt="Alyssa Hu" />
 
-I'm passionate about building AI-powered products and solving real user problems.
+<br>
 
-## 🚀 Experience
+*I build products that make complex technology feel simple.*
 
-### Founder & Product Lead — Levari
+<br>
 
-AI-native marketplace connecting students with verified peers.
+CS & Economics @ University of Pennsylvania  
+Co-Founder @ Levari · Previously AI PM @ Genia  
+Currently building Product Gym
 
-- Built MVP from 0→1
-- 300+ users across 8 universities
-- $40K+ GMV
-- Conducted 50+ user interviews
+<br>
 
-### Product & Growth Intern — Genia
+[LinkedIn](https://www.linkedin.com/in/alyssa-hu/) &nbsp; / &nbsp; [Email](mailto:alyssahu233@gmail.com)
 
-AI SaaS startup building AI agents for structural engineers.
+<br><br>
 
-## 🛠 Projects
+</div>
 
-### Sports Concierge AI
+---
 
-AI assistant that helps sports fans follow teams, players, and events.
+<br>
 
-## Interests
+## SELECTED WORK
 
-AI Products · Product Management · Startups · Consumer Platforms
+<br>
 
+### 01 / LEVARI
+**Co-Founder & Product Manager**
+
+An AI-powered marketplace connecting students with services, expertise, and opportunities.
+
+Led the product from concept to launch, building AI-powered search, recommendations, and content creation experiences.
+
+**500+ users · 50+ providers · $30K+ GMV**
+
+<br><br>
+
+### 02 / GENIA
+**AI Agent Product Manager Intern**
+
+An AI-native platform reimagining structural engineering workflows.
+
+Worked on an end-to-end AI agent that transforms architectural drawings into validated structural designs, combining generative AI with engineering verification and human oversight.
+
+**10× faster design · 200+ engineering firms**
+
+<br><br>
+
+### 03 / PRODUCT GYM
+**Independent Project · In Development**
+
+*Practice smarter. Think sharper.*
+
+Building an AI-powered interview preparation platform for aspiring product managers.
+
+Making PM interview practice more interactive, personalized, and accessible through AI-driven mock interviews, adaptive questioning, and structured feedback.
+
+<br><br>
+
+---
+
+<div align="center">
+
+<br>
+
+*Always curious. Always building.*
+
+Exploring AI agents, consumer products, and the future of human-AI interaction.
+
+<br>
+
+[GitHub](https://github.com/alyssa-xyhu) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/alyssa-hu/) &nbsp; / &nbsp; [Get in touch](mailto:alyssahu233@gmail.com)
+
+<br>
+
+</div>
